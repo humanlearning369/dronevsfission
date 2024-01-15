@@ -1,3 +1,19 @@
+"""
+Fission Energy Drone Simulation
+
+Authors: Frank Garcia & Naomi Arroyo
+Collaborator: n/a
+Date: 01/02/2024
+License: MIT LICENSE
+
+Description:
+This script simulates drone monitoring and management in a fission energy environment.
+It includes visualization of energy spread and drone interaction with the energy field.
+
+Usage:
+Run this script to simulate the drone's reactions to an evolving energy field and to visualize the process.
+
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
